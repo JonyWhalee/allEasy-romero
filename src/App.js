@@ -1,11 +1,10 @@
 // @ts-check
-import "./App.css";
-import NavBar from "./components/Navbar";
+import Navbar from "./Components/Navbar";
 
 function App() {
 	return (
 		<>
-			<NavBar />
+			<Navbar />
 		</>
 	);
 }
